@@ -1,3 +1,21 @@
 h1 {
     color: red;
 }
+
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f7f3;
+    color: #222;
+}
+
+.student-card {
+    max-width: 520px;
+    margin: 40px auto;
+    padding: 24px;
+    border: 1px solid #b9c7b2;
+    background: #fff;
+}
+
+.student-card h1 {
+    color: #216b36;
+}
